@@ -9,6 +9,6 @@ I am also a part of the camp "Camp Hest" (Camp Horse) @ Roskilde Festival and ru
 🐎 https://camphest.herokuapp.com/
 
 
-Most of the projects I have worked on presonally, professionally and related to my studies are shown here (unless they for some reason have to be private). I love to share my work and make this available fron anywhere. Feel free to check them out.
+Most of the projects I have worked on presonally, professionally and related to my studies are shown here (unless they for some reason have to be private). I love to share my work and make this available from whereever and for whomever. Feel free to check them out, fork them or contribute.
 
 I tweet a lot about climate, education, being a woman in STEM, social justice etc. if you find this interesting, find me on Twitter!
