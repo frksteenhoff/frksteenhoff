@@ -13,6 +13,6 @@ I am also a part of the camp "Camp Hest" (Camp Horse) @ Roskilde Festival and ru
 
 Most of the projects I have worked on personally, professionally and related to my studies are shown here (unless they for some reason have to be private). I love to share my work and make this available from whereever and for whomever. Feel free to check them out, fork them or contribute.
 
-My static page is commited to exposing some of the issues that big tech companies are creating in the world focusing on surveillance capitalism, threatening democracy and undermining workers, see more here: https://frksteenhoff.github.io/
+My static page is commited to exposing some of the issues that big tech companies are creating in the world focusing on surveillance capitalism, threatening democracy and undermining worker's rights. See more here: https://frksteenhoff.github.io/
 
 I tweet a lot about climate, education, being a woman in STEM, social justice etc. if you find this interesting, find me on Twitter!
